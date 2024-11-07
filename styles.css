@@ -15,7 +15,7 @@ background: -webkit-linear-gradient(top, #7c803d 0%, #000000 75%, #000000 100%);
 background: -o-linear-gradient(top, #7c803d 0%, #000000 75%, #000000 100%);
 background: -ms-linear-gradient(top, #7c803d 0%, #000000 75%, #000000 100%);
 background: linear-gradient(to bottom, #7c803d 0%, #000000 75%, #000000 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c803d', endColorstr='#000000', GradientType=0 );
+filter: progid:DXIm ageTransform.Microsoft.gradient( startColorstr='#7c803d', endColorstr='#000000', GradientType=0 );
 	color: #111;
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
