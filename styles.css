@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: #007bff;
+    background: #292b2c;
     color: #fff;
     padding: 20px 0;
     text-align: center; /* Memusatkan teks di header */
@@ -88,7 +88,7 @@ form button:hover {
 footer {
     text-align: center; /* Memusatkan teks di footer */
     padding: 10px 0;
-    background: #007bff;
+    background: #333536;
     color: #fff;
 }
 
